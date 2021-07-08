@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
-## I'm a Full Stack Developer Student
+## I'm a Junior Full Stack Developer
 
-- 🔭 I just launched my first course:
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I try to be full stack developer.
+- 🌱 I’m currently learning Java/React
+- 👯 I'm looking for a job.
+- 🥅 2021 Goals: Add depth to my programming knowledge.
+- ⚡ Fun fact: I love to swimming and play chess
 
 <!--
 ### Spotify Playing 🎧
