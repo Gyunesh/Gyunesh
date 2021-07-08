@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I try to be full stack developer.
 - 🌱 I’m currently learning Java/React
-- 👯 I'm looking for a job.
 - 🥅 2021 Goals: Add depth to my programming knowledge.
 - ⚡ Fun fact: I love to swimming and play chess
 
