@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=Gyunesh.Gyunesh)
 ### Hi there, I'm Gyunesh 👋
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
