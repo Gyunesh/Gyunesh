@@ -1,9 +1,9 @@
-### Hi there 👋
+<--### Hi there 👋
 
 
 ## Skills and Experience
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS-->
 
 <!--
 **Gyunesh/Gyunesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
